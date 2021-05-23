@@ -1,0 +1,14 @@
+/*Add a SVG to a Heading module. Useful for creating interesting headlines and social media CTA's*/
+/*Replace "selector" with your own class*/
+selector .elementor-widget-container {
+    display: flex;
+    align-items: center;
+}
+selector .elementor-widget-container:before {
+    display: inline-block; /*inline the SVG*/
+    content:url("replace with SVG url");
+    /*transform: scale(0.8); control the size of the SVG*/
+    /*Follow margin and padding can be used for more precise positioning of the svg*/
+    /*padding-right: 3px;
+    margin-top: 3px;*/
+}
