@@ -1,0 +1,6 @@
+/*Inline a section. Usuful for position sections using flexbox*/
+/*Replace "selector" with your own class*/
+selector {
+    display: inline-block;
+    width: auto;
+}
