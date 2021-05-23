@@ -1,2 +1,2 @@
 # Elementor
-A repository of SCCS/CSS snippets specifically for Elementor. 
+A repository of SCCS/CSS snippets created specifically for Elementor. 
