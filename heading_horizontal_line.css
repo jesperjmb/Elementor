@@ -5,6 +5,6 @@ selector:after {
     content: '';
     width: 70px; /*Width of the horizontal line*/
     height: 7px; /*Height of the horizontal line*/
-    background: #23CCFD; /*Color of the horizontal line*/
     margin-top: 7px; /*Adds a margin between the Heading and the horizontal line*/
+    background: #23CCFD; /*Color of the horizontal line*/
 }
